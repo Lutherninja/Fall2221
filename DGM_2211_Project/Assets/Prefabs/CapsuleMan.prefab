@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Jump","value":{"$content":6.0,"$type":"System.Single"},"$version":"A"},{"name":"DoubleJump","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"Roll","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Jump","value":{"$content":6.0,"$type":"System.Single"},"$version":"A"},{"name":"DoubleJump","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"Roll","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"LadderGravity","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!136 &136602910916208508
 CapsuleCollider:
